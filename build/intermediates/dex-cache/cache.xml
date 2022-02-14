@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="28.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_2a37b4d58d0ff9c8afe272a664f05fb4b4156cd1\classes.dex" />
+    </item>
+    <item
+        jar="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="28.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c9027a8fc15e2b82b020ce13298cef84d230cd59\classes.dex" />
+    </item>
+    <item
+        jar="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="28.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_a4aa2979970a1f1e80f20ceed7ad8a23e660ad50\classes.dex" />
+    </item>
+    <item
+        jar="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="28.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ca277863743c5c1d8e963d77ef0f9be8e2b32415\classes.dex" />
+    </item>
+    <item
+        jar="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="28.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_385afdaf5138bcb72ad5a63097c61b8381e8b270\classes.dex" />
+    </item>
+    <item
+        jar="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="28.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_182a321b1d0cfc698ef08f4d250ec7ce7021578a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fabio\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="28.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_ff816bda53e97e0e2bfab476f67f87c56b401be4\classes.dex" />
+    </item>
+    <item
+        jar="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="28.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_fb14abcf9c46ab74f9ba0556ef630bfe0bb19aec\classes.dex" />
+    </item>
+    <item
+        jar="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="28.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_fec6097aaefc9f7c2be394d2b470452fef69c6e1\classes.dex" />
+    </item>
+    <item
+        jar="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="28.0.3"
+        sha1="dde442da21ec5590a9464d293169820301999147">
+        <dex dex="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5e8023a8fd7b8859b25b808776fb98a04cc4a6b3\classes.dex" />
+    </item>
+    <item
+        jar="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="28.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fc206be6a76eb0cab32aba7fdd6d9fd8b62bfd7e\classes.dex" />
+    </item>
+    <item
+        jar="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="28.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_10cbac94d97f7826f1a9419c363df6abdc9f873c\classes.dex" />
+    </item>
+    <item
+        jar="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="28.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_f45d226063a0b0a3340c995a54ccadd9e0d9444c\classes.dex" />
+    </item>
+    <item
+        jar="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="28.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_b30cac8ef003a393c0c08fc86d5cdc983b3e53dc\classes.dex" />
+    </item>
+    <item
+        jar="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="28.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_98a2b3d7dcc25c800df1990834a11d8e3090b5e0\classes.dex" />
+    </item>
+    <item
+        jar="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="28.0.3"
+        sha1="3d76b8398e290b11afd412976cc5a8fd140a8588">
+        <dex dex="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_92c638cd04994d15096da58e291f2a3c7b8eb61f\classes.dex" />
+    </item>
+    <item
+        jar="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="28.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\2019-05-zmrapp\ZmrApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_d6ee32ba9eb0c86199768a603a976917c20ed00b\classes.dex" />
+    </item>
+
+</items>
